@@ -1,5 +1,6 @@
-# Frozen Shop In Sandstorm V1
+# Approved Shop In Sandstorm V1
 
-The user froze this release on 2026-10-22. Do not change source files, regenerate or replace index.html, modify frozen archives, or update GitHub Pages without explicit user confirmation of the proposed change. Read-only inspection is allowed. The initial archival and publication requested with this freeze are authorized once. Preserve this release and use a separately approved working copy for later changes.
+The user requires explicit confirmation before changing sources, rebuilding/replacing the HTML, or updating GitHub Pages. The current authorized update installs the complete supplied workbench `Shop In Sandstorm V1 workbench 2026-10-21T17-33-11-318Z.json` directly in the existing source and publication, without creating a new backup. This authorization covers that update only; later changes require new confirmation. Preserve the historical frozen release and archive.
 
-Frozen HTML SHA-256: `2d95ee977154fc875062effc7b12561134d975cbf68916edd1d876b63cbb50b5`
+Current HTML SHA-256: `2d952e18243e447c177fddb30d48ba5ddd8e5beffab4f6a8631f0b92d795052b`
+Preset ID: `1b67efd042c7e3bb`

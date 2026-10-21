@@ -1,23 +1,30 @@
 {
-  "version": "v1-frozen-2026-10-22",
-  "createdAt": "2026-10-22T00:38:51.716684+08:00",
-  "htmlSha256": "2d95ee977154fc875062effc7b12561134d975cbf68916edd1d876b63cbb50b5",
+  "version": "v1-workbench-20261021T173311318Z",
+  "approvedAt": "2026-10-22T01:39:57.558454+08:00",
+  "htmlSha256": "2d952e18243e447c177fddb30d48ba5ddd8e5beffab4f6a8631f0b92d795052b",
+  "initialWorkbench": {
+    "source": "v1/src/initial-workbench.json",
+    "sha256": "a976bd9b11ae34762aa4abb6d2be570d1e6bdc167ac9b81f3737156d786a1ae9",
+    "presetId": "1b67efd042c7e3bb",
+    "controls": 59,
+    "sandTiles": 0
+  },
   "files": [
     {
       "path": "index.html",
-      "bytes": 58047648,
-      "sha256": "2d95ee977154fc875062effc7b12561134d975cbf68916edd1d876b63cbb50b5"
+      "bytes": 57361708,
+      "sha256": "2d952e18243e447c177fddb30d48ba5ddd8e5beffab4f6a8631f0b92d795052b"
     },
     {
       "path": "initial-workbench.json",
-      "bytes": 694948,
-      "sha256": "69cfff623efbb358cf527c0bb8dc3a448bee31338e030a52d2a0c8b655a6652f"
+      "bytes": 7787,
+      "sha256": "a976bd9b11ae34762aa4abb6d2be570d1e6bdc167ac9b81f3737156d786a1ae9"
     }
   ],
-  "archive": {
+  "historicalArchive": {
     "filename": "Shop In Sandstorm V1 - Frozen 2026-10-22.zip",
     "bytes": 97408194,
     "sha256": "f4e0db8296faf032b9244751399c8b6596454a9a39ed90aed32d8c3fc5d2b23e"
   },
-  "policy": "No source edits, rebuilds, replacements or publication updates without explicit user confirmation. Initial byte-identical archival/publication authorized once."
+  "policy": "The user explicitly approved this workbench update, direct source edits and publication without a new backup. Future edits, rebuilds and published updates require explicit confirmation. Existing frozen archives and tags remain unchanged."
 }

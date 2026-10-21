@@ -1,15 +1,17 @@
 # Shop In Sandstorm V1
 
-Frozen WebGPU scene, approved 2026-10-22.
-
 [Open the scene](https://qzq99999.github.io/shop-in-sandstorm-v1/)
 
-This version includes the scanner pistol, the accepted reference grip and gentle ring/pinky curls, and a small outward wrist adjustment to reduce visible thigh overlap while preserving the character animation. Models, textures and the initial workbench are embedded in `index.html`.
+The current approved scene automatically loads the complete workbench exported at `2026-10-21T17:33:11.318Z`. Its 59 control reset defaults match the saved state, including sun X 4.9 and an empty sand-track history. Saved camera, character, object, editor and panel state are preserved. The reference scanner grip, gentle ring/pinky curls and 12-degree outward wrist adjustment remain unchanged.
 
-The published HTML is byte-identical to the approved local file. Use a WebGPU-capable Chrome browser. The [frozen release](https://github.com/QzQ99999/shop-in-sandstorm-v1/releases/tag/v1-frozen-2026-10-22) contains the complete local recovery archive, source dependencies, Windows launchers and SHA-256 checksum.
+Models, textures and the workbench are embedded in `index.html`; `initial-workbench.json` is the supplied source data. The HTML is byte-identical to the approved local file. Use a WebGPU-capable browser.
 
-## Frozen release
+## Change policy
 
-No edits, rebuilds, replacements or published updates without explicit user confirmation. The original [Shop In Sandstorm release](https://github.com/QzQ99999/shop-in-sandstorm) remains separate.
+The user authorized this workbench update directly in the existing source and GitHub publication, without a new backup. Subsequent edits, rebuilds, replacements or published updates require explicit confirmation.
 
-HTML SHA-256: `2d95ee977154fc875062effc7b12561134d975cbf68916edd1d876b63cbb50b5`
+The [historical frozen release](https://github.com/QzQ99999/shop-in-sandstorm-v1/releases/tag/v1-frozen-2026-10-22) preserves the previous snapshot; it does not contain this updated workbench. The original [Shop In Sandstorm release](https://github.com/QzQ99999/shop-in-sandstorm) remains separate.
+
+HTML SHA-256: `2d952e18243e447c177fddb30d48ba5ddd8e5beffab4f6a8631f0b92d795052b`
+
+Preset ID: `1b67efd042c7e3bb`
