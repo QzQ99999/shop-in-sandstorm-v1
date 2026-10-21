@@ -1,0 +1,23 @@
+{
+  "version": "v1-frozen-2026-10-22",
+  "createdAt": "2026-10-22T00:38:51.716684+08:00",
+  "htmlSha256": "2d95ee977154fc875062effc7b12561134d975cbf68916edd1d876b63cbb50b5",
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 58047648,
+      "sha256": "2d95ee977154fc875062effc7b12561134d975cbf68916edd1d876b63cbb50b5"
+    },
+    {
+      "path": "initial-workbench.json",
+      "bytes": 694948,
+      "sha256": "69cfff623efbb358cf527c0bb8dc3a448bee31338e030a52d2a0c8b655a6652f"
+    }
+  ],
+  "archive": {
+    "filename": "Shop In Sandstorm V1 - Frozen 2026-10-22.zip",
+    "bytes": 97408194,
+    "sha256": "f4e0db8296faf032b9244751399c8b6596454a9a39ed90aed32d8c3fc5d2b23e"
+  },
+  "policy": "No source edits, rebuilds, replacements or publication updates without explicit user confirmation. Initial byte-identical archival/publication authorized once."
+}
