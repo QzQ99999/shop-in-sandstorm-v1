@@ -1,24 +1,24 @@
 {
-  "version": "v1-workbench-20261021T173311318Z",
-  "approvedAt": "2026-10-22T01:39:57.558454+08:00",
-  "htmlSha256": "2d952e18243e447c177fddb30d48ba5ddd8e5beffab4f6a8631f0b92d795052b",
+  "version": "v1-workbench-20261021T175644277Z",
+  "approvedAt": "2026-10-22T02:01:32.476189+08:00",
+  "htmlSha256": "7056b415d928ff15cc3e2f2c24a7eaf930a5fc7357e1119531d5f9f77a0084c2",
   "initialWorkbench": {
     "source": "v1/src/initial-workbench.json",
-    "sha256": "a976bd9b11ae34762aa4abb6d2be570d1e6bdc167ac9b81f3737156d786a1ae9",
-    "presetId": "1b67efd042c7e3bb",
+    "sha256": "bab1bd3eecff4ec8c191d7eb5e1878a45f49161a3978b53be5e252ee695003eb",
+    "presetId": "33d05de6c4fac562",
     "controls": 59,
     "sandTiles": 0
   },
   "files": [
     {
       "path": "index.html",
-      "bytes": 57361708,
-      "sha256": "2d952e18243e447c177fddb30d48ba5ddd8e5beffab4f6a8631f0b92d795052b"
+      "bytes": 57361705,
+      "sha256": "7056b415d928ff15cc3e2f2c24a7eaf930a5fc7357e1119531d5f9f77a0084c2"
     },
     {
       "path": "initial-workbench.json",
-      "bytes": 7787,
-      "sha256": "a976bd9b11ae34762aa4abb6d2be570d1e6bdc167ac9b81f3737156d786a1ae9"
+      "bytes": 7785,
+      "sha256": "bab1bd3eecff4ec8c191d7eb5e1878a45f49161a3978b53be5e252ee695003eb"
     }
   ],
   "historicalArchive": {
@@ -26,5 +26,6 @@
     "bytes": 97408194,
     "sha256": "f4e0db8296faf032b9244751399c8b6596454a9a39ed90aed32d8c3fc5d2b23e"
   },
-  "policy": "The user explicitly approved this workbench update, direct source edits and publication without a new backup. Future edits, rebuilds and published updates require explicit confirmation. Existing frozen archives and tags remain unchanged."
+  "policy": "The user explicitly authorized this complete workbench replacement, direct source edits, synchronized HTML/Launch rebuild and GitHub/Pages publication without a new backup. After this update the resulting version is frozen again. Any later source change, rebuild or published update requires explicit user confirmation. Historical archives and tags remain unchanged.",
+  "newBackupCreated": false
 }

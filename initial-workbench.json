@@ -1,7 +1,7 @@
 {
   "schema": "afterimage.workbench",
   "version": 5,
-  "capturedAt": "2026-10-21T17:33:11.318Z",
+  "capturedAt": "2026-10-21T17:56:44.277Z",
   "instruction": "读取工作台并修改",
   "source": {
     "file": "Shop In Sandstorm V1.html",
@@ -10,7 +10,7 @@
   "normal": {
     "controls": {
       "sun-x": 4.9,
-      "sun-y": 17.1,
+      "sun-y": 8.1,
       "sun-z": -52.7,
       "sun-disc-size": 42,
       "fog": 60.2,
@@ -146,7 +146,7 @@
       "name": "太阳 / 光源",
       "position": [
         4.9,
-        17.1,
+        8.1,
         -52.7
       ],
       "rotation": [
