@@ -1,24 +1,24 @@
 {
-  "version": "v1-workbench-20261021T173311318Z",
-  "approvedAt": "2026-10-22T01:39:57.558454+08:00",
-  "htmlSha256": "2d952e18243e447c177fddb30d48ba5ddd8e5beffab4f6a8631f0b92d795052b",
+  "version": "v1-workbench-20261021T174603729Z",
+  "approvedAt": "2026-10-22T01:49:08.347103+08:00",
+  "htmlSha256": "3e37c52786581e0f7b4468167886495c35df2232fdeacece0f124b8244e8848e",
   "initialWorkbench": {
     "source": "v1/src/initial-workbench.json",
-    "sha256": "a976bd9b11ae34762aa4abb6d2be570d1e6bdc167ac9b81f3737156d786a1ae9",
-    "presetId": "1b67efd042c7e3bb",
+    "sha256": "96ebe1289bf65f6aecbc1264eaa54d782877acc3f9036f976056096c04bcce99",
+    "presetId": "fedf0305568789bc",
     "controls": 59,
-    "sandTiles": 0
+    "sandTiles": 16
   },
   "files": [
     {
       "path": "index.html",
-      "bytes": 57361708,
-      "sha256": "2d952e18243e447c177fddb30d48ba5ddd8e5beffab4f6a8631f0b92d795052b"
+      "bytes": 57995892,
+      "sha256": "3e37c52786581e0f7b4468167886495c35df2232fdeacece0f124b8244e8848e"
     },
     {
       "path": "initial-workbench.json",
-      "bytes": 7787,
-      "sha256": "a976bd9b11ae34762aa4abb6d2be570d1e6bdc167ac9b81f3737156d786a1ae9"
+      "bytes": 643001,
+      "sha256": "96ebe1289bf65f6aecbc1264eaa54d782877acc3f9036f976056096c04bcce99"
     }
   ],
   "historicalArchive": {
